@@ -1,0 +1,22 @@
+
+{
+  "name": "ahoffner/jquery-typeahead",
+  "version": "0.1",
+  "description": "Javascript Typeahead (autocomplete) plugin with more than 50 options and callbacks.",
+  "authors": [
+    {
+      "name": "Running Coder",
+      "homepage": "https://github.com/running-coder/"
+    },
+    {
+      "name": "Andy Hoffner",
+      "homepage": "http://andyhoffner.com"
+    }
+  ],
+  "keywords": [
+    "plugin",
+    "select",
+    "ajax"
+  ],
+  "license": "MIT"
+}
